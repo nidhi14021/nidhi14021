@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Nidhi%20Sharma&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=M.Tech%20CSE%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dda17d,100:b56a3c&height=200&section=header&text=Nidhi%20Sharma&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=M.Tech%20CSE%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=15" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=M.Tech+CSE+Student+%40+LPU;Full+Stack+%2B+AI+Developer;Building+with+React+%26+Next.js;Exploring+Generative+AI+%26+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=DDA17D&center=true&vCenter=true&width=650&lines=M.Tech+CSE+Student+%40+LPU;Full+Stack+%2B+AI+Developer;Building+with+React+%26+Next.js;Exploring+Generative+AI+%26+RAG" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nidhi14021&label=Profile%20Views&color=7dd3fc&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/nidhi14021?label=Followers&style=flat&color=7dd3fc" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=nidhi14021&label=Profile%20Views&color=dda17d&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/nidhi14021?label=Followers&style=flat&color=dda17d" alt="followers"/>
 
 </div>
 
@@ -40,6 +40,7 @@ Designed a PSO-optimized U-Net–based deep learning framework for automated bra
 - Implemented image preprocessing, data augmentation, and Particle Swarm Optimization (PSO) for hyperparameter tuning — improving segmentation performance by **45.57%**
 - Evaluated the optimized model using standard performance metrics, demonstrating improved accuracy, robustness, and generalization on an independent test set
 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=nidhi14021&repo=ML_BrainTumorSegmentation&theme=nord&border_color=dda17d&title_color=dda17d&text_color=c9d1d9&bg_color=0d1117" alt="Brain Tumor Segmentation"/>
 
 | Layer          | Technology                          |
 | -------------- | ------------------------------------ |
@@ -61,7 +62,7 @@ A full-stack AI-powered personal finance platform enabling income/expense manage
 - Integrated AI financial assistance, receipt OCR, voice-based expense entry, spending pattern analysis, and personalized financial insights using modern AI technologies
 - Engineered a scalable backend with secure JWT authentication, RESTful APIs, PostgreSQL database design, and modular architecture to support forecasting and future ML capabilities
 
-
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=nidhi14021&repo=AIFinanceplatform&theme=nord&border_color=dda17d&title_color=dda17d&text_color=c9d1d9&bg_color=0d1117" alt="AI Finance Platform"/>
 
 | Layer          | Technology                     |
 | -------------- | ------------------------------- |
@@ -83,6 +84,7 @@ A desktop-based management system managing 5+ modules — patients, doctors' rec
 - Crafted an intuitive, user-friendly GUI to streamline hospital operations and reduce dependency on manual processes
 - Integrated MySQL for secure data storage, efficient retrieval, and improved system reliability
 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=nidhi14021&repo=HMS&theme=nord&border_color=dda17d&title_color=dda17d&text_color=c9d1d9&bg_color=0d1117" alt="Hospital Management System"/>
 
 | Layer          | Technology     |
 | -------------- | -------------- |
@@ -146,19 +148,27 @@ Master of Technology, Computer Science and Engineering · `Aug 2025 – Present`
 
 <div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api?username=nidhi14021&show_icons=true&theme=nord&border_color=dda17d&title_color=dda17d&icon_color=dda17d&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nidhi14021&layout=compact&theme=nord&border_color=dda17d&title_color=dda17d&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=nidhi14021&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=nidhi14021&theme=nord&border=dda17d&ring=dda17d&fire=dda17d&currStreakLabel=dda17d" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
 
+## 🏆 Trophies
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nidhi14021&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="trophies"/>
+</div>
+
+<br/>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhi14021&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhi14021&theme=react-dark&color=dda17d&line=dda17d&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 </div>
 
 <br/>
@@ -171,11 +181,11 @@ Master of Technology, Computer Science and Engineering · `Aug 2025 – Present`
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:snidhi2140@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-dda17d?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dda17d,100:b56a3c&height=120&section=footer" width="100%"/>
