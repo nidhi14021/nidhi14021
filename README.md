@@ -40,7 +40,6 @@ Designed a PSO-optimized U-Net–based deep learning framework for automated bra
 - Implemented image preprocessing, data augmentation, and Particle Swarm Optimization (PSO) for hyperparameter tuning — improving segmentation performance by **45.57%**
 - Evaluated the optimized model using standard performance metrics, demonstrating improved accuracy, robustness, and generalization on an independent test set
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhi14021&repo=ML_BrainTumorSegmentation&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Brain Tumor Segmentation"/>
 
 | Layer          | Technology                          |
 | -------------- | ------------------------------------ |
