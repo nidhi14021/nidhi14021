@@ -146,8 +146,6 @@ Master of Technology, Computer Science and Engineering · `Aug 2025 – Present`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nidhi14021&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi14021&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=nidhi14021&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
