@@ -157,13 +157,7 @@ Master of Technology, Computer Science and Engineering · `Aug 2025 – Present`
 
 <br/>
 
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nidhi14021&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="trophies"/>
-</div>
-
-<br/>
 
 ## 📈 Contribution Activity
 
