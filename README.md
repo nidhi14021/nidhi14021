@@ -62,7 +62,7 @@ A full-stack AI-powered personal finance platform enabling income/expense manage
 - Integrated AI financial assistance, receipt OCR, voice-based expense entry, spending pattern analysis, and personalized financial insights using modern AI technologies
 - Engineered a scalable backend with secure JWT authentication, RESTful APIs, PostgreSQL database design, and modular architecture to support forecasting and future ML capabilities
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhi14021&repo=AIFinanceplatform&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="AI Finance Platform"/>
+
 
 | Layer          | Technology                     |
 | -------------- | ------------------------------- |
@@ -84,7 +84,6 @@ A desktop-based management system managing 5+ modules — patients, doctors' rec
 - Crafted an intuitive, user-friendly GUI to streamline hospital operations and reduce dependency on manual processes
 - Integrated MySQL for secure data storage, efficient retrieval, and improved system reliability
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhi14021&repo=HMS&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Hospital Management System"/>
 
 | Layer          | Technology     |
 | -------------- | -------------- |
@@ -157,13 +156,7 @@ Master of Technology, Computer Science and Engineering · `Aug 2025 – Present`
 
 <br/>
 
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nidhi14021&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="trophies"/>
-</div>
-
-<br/>
 
 ## 📈 Contribution Activity
 
