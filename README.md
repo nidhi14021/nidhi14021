@@ -117,13 +117,6 @@ A desktop-based management system managing 5+ modules — patients, doctors' rec
 
 <br/>
 
-## 🎓 Education
-
-**Lovely Professional University**, Phagwara, Punjab
-Master of Technology, Computer Science and Engineering · `Aug 2025 – Present` · CGPA: **9.5**
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 **Languages**
