@@ -30,6 +30,26 @@
 
 <br/>
 
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,ruby,js,html,css" alt="languages"/>
+
+**Frameworks**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,rails" alt="frameworks"/>
+
+**AI & Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,postgresql" alt="ai and backend"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker" alt="tools"/>
+
+<br/>
+
 ## 🚀 Featured Projects
 
 ### 🧠 Brain Tumor Segmentation
@@ -114,26 +134,6 @@ A desktop-based management system managing 5+ modules — patients, doctors' rec
 - **Research Methodology** — NPTEL · Apr 2025
 - **Python with MySQL** — GTB Institute · Sep 2023
 - **Cloud Computing and Distributed Systems** — NPTEL · Mar 2023
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,ruby,js,html,css" alt="languages"/>
-
-**Frameworks**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,rails" alt="frameworks"/>
-
-**AI & Backend**
-
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,postgresql" alt="ai and backend"/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker" alt="tools"/>
 
 <br/>
 
